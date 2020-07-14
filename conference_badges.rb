@@ -4,7 +4,8 @@ end
 
 def batch_badge_creator(attendees)
   newarray = []
-  
+  attendees.each do
+    
     
   end
   return "Hello, my name is #{badges}."
