@@ -10,6 +10,8 @@ def batch_badge_creator(attendees)
   return new_array
 end
 
-def assign_rooms()
-  
+def assign_rooms(badge)
+  new_array = []
+  counter = 1
+    
 end
